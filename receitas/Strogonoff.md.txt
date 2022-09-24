@@ -1,8 +1,0 @@
-
-
-<h1> Strogonoff de Frango </h1>
-<h2> Strogonoff de Frango </h2>
-<h3> Strogonoff de Frango </h3>
-<h4> Strogonoff de Frango </h4>
-<h5> Strogonoff de Frango </h5>
-<h6> Strogonoff de Frango </h6>
